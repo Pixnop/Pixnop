@@ -4,7 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT student
 ----------
 
-Student in 2ᵉ year of BUT informatique, option Intégration d'Applications et Management du Système d'Information (IAMSI) at IUT Montpellier Sète. Passionate about the development and optimisation of IT systems, I combine technical skills with a hands-on approach to create innovative solutions. Key skills : Full stack development Mastery of SQL and DBMS Database management and optimisation Notable projects : Design and development of the www.saint-gely-athletisme.fr website Technical hobbies : FPV drone piloting 3D printing and CAD modelling I'm always open to opportunities for collaboration and learning. Don't hesitate to contact me to discuss exciting projects!
+Student in 2ᵉ year of BUT informatique, option Intégration d'Applications et Management du Système d'Information (IAMSI) at IUT Montpellier Sète. Passionate about the development and optimisation of IT systems, I combine technical skills with a hands-on approach to create innovative solutions. 
+
+Key skills : 
+- Full stack development 
+- Mastery of SQL and DBMS 
+- Database management and optimisation
+
+Notable projects : 
+- Design and development of the www.saint-gely-athletisme.fr 
+
+website Technical hobbies : 
+- FPV drone piloting 
+- 3D printing and CAD modelling
+
+I'm always open to opportunities for collaboration and learning. Don't hesitate to contact me to discuss exciting projects!
 
 *   🌍  I'm based in France
 *   🖥️  See my portfolio at [Leon fievet](http://leonfievet.fr)
