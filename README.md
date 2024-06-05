@@ -21,7 +21,7 @@ website Technical hobbies :
 I'm always open to opportunities for collaboration and learning. Don't hesitate to contact me to discuss exciting projects!
 
 *   🌍  I'm based in France
-*   🖥️  See my portfolio at [Leon fievet](http://leonfievet.fr)
+*   🖥️  See my portfolio at [Leon fievet](https://pixnop.github.io/)
 *   ✉️  You can contact me at [fievet.leon@free.fr](mailto:fievet.leon@free.fr)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on the vesc project
