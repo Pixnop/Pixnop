@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT student
 ----------
 
-Student in 2ᵉ year of BUT informatique, option Intégration d'Applications et Management du Système d'Information (IAMSI) at IUT Montpellier Sète. Passionate about the development and optimisation of IT systems, I combine technical skills with a hands-on approach to create innovative solutions. 
+Student in 3ᵉ year of BUT informatique, option Intégration d'Applications et Management du Système d'Information (IAMSI) at IUT Montpellier Sète. Passionate about the development and optimisation of IT systems, I combine technical skills with a hands-on approach to create innovative solutions. 
 
 Key skills : 
 - Full stack development 
